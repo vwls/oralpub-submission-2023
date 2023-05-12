@@ -1,0 +1,79 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #969696;
+}
+
+#words{
+  text-align: left;
+  width: 100%;
+  color: pink;
+  position: absolute;
+  font-size: 26px;
+  font-family: "Kawingan", monospace;
+  text-shadow: 2px 4px 4px black;
+  margin: 100px;
+}
+
+#words p {
+  padding: 0px;
+  margin: 0px;
+}
+
+#container {
+  width: 100%;
+  text-align: center;
+  margin: 0px;
+  
+}
+
+
+
+
+
+/*#words {
+  
+  text-align: left;
+  width: 100%;
+  color: black;
+  position: absolute;
+  font-size: 50px;
+  font-family: "Kawingan", monospace;
+}
+
+#words p {
+  padding: 0px;
+  margin: 0px;
+}
+
+p:hover{
+  animation: glow 3s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #774646, 0 0 20px #150838, 0 0 30px #744013, 0 0 40px #e60073, 0 0 50px #8BC34A, 0 0 60px #607D8B, 0 0 70px #795548;
+  }
+
+  to {
+    text-shadow: 0 0 20px #643636, 0 0 30px #ff4da6, 0 0 40px #7A6F75, 0 0 50px #ff4da6, 0 0 60px #E091B9, 0 0 70px #A3738B, 0 0 80px #8BC34A;
+  }
+}
+
+#container {
+  width: 100%;
+  text-align: center;
+  margin: 200px;
+  
+}*/
+
+
+
+
+/*  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #8BC34A, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #8BC34A;
+  } */
