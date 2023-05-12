@@ -12,4 +12,4 @@ To launch:
 
 navigate to this directory using terminal and execute the following command
 python -m SimpleHTTPServer 8080
-then point your browser "localhost:8008"
+then point your browser "localhost:8080"
